@@ -22,6 +22,6 @@ And it will log the following output on each request
 Notes
 -----
 
-Grep for requests that increate memory consumption drastically
+Grep for requests that increase memory consumption drastically
 
     $ grep 'Memory: +[0-9]\{6\}' log/production.log
